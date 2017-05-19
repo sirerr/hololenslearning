@@ -1,0 +1,4 @@
+C:\Users\sirerr\Documents\GitHub\hololenslearning\dragones\holo0-dragones\app1\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\sirerr\Documents\GitHub\hololenslearning\dragones\holo0-dragones\app1\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\sirerr\Documents\GitHub\hololenslearning\dragones\holo0-dragones\app1\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\sirerr\Documents\GitHub\hololenslearning\dragones\holo0-dragones\app1\holo0-dragones\holo0-dragones.csproj;x86
